@@ -6,6 +6,7 @@
 #include <cmath>
 #include <cstdint>
 #include <vector>
+#include <stdexcept>
 
 using std::vector;
 //tahel is bad
